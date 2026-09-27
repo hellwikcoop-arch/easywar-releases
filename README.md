@@ -1,0 +1,2 @@
+# easywar-releases
+Update files
